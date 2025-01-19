@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Astro, SQL, Pickleball**
+- 💬 Ask me about **Astro, Viruses (not the computer ones), and Pickleball**
 
 - 📫 How to reach me **se.serrano12@gmail.com**
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <a href="https://codepen.io/https://codepen.io/sebastianserrano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/sebastianserrano" height="30" width="40" /></a>
 <a href="https://dev.to/sebasserrano12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sebasserrano12" height="30" width="40" /></a>
 <a href="https://twitter.com/cbasscodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cbasscodes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sebastian-serrano12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastian-serrano12/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sebastian-serrano12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastian-serrano12/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21806061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21806061" height="30" width="40" /></a>
 </p>
 
