@@ -13,12 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Sebastian Serrano</h1>
-<h3 align="center">A Fullstack Software Engineer from Colombia</h3>
+<h1 align="center">Hi 👋, I'm Sebastian</h1>
+<h3 align="center">A Dev from Colombia</h3>
 
-- 🔭 I’m currently working on **MediTranslate**, my translation app
-
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on **LlamaCare**, a medical logistics app
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **Astro, Viruses (not the computer ones), and Pickleball**
 
